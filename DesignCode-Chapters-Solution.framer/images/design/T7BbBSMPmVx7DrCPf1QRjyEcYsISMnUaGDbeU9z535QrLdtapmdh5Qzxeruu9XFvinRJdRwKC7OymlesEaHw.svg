@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="25px" height="43px" viewBox="0 0 25 43" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>play-icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M5.12132034,0.878679656 L23.3345238,19.0918831 C24.5060967,20.263456 24.5060967,22.1629509 23.3345238,23.3345238 L5.12132034,41.5477272 C3.94974747,42.7193001 2.05025253,42.7193001 0.878679656,41.5477272 C0.316070521,40.9851181 0,40.2220563 0,39.4264069 L0,3 C0,1.34314575 1.34314575,0 3,0 C3.79564947,0 4.55871121,0.316070521 5.12132034,0.878679656 Z" id="path-1"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Article-Video" transform="translate(-199.000000, -218.000000)">
+            <g id="button-play" transform="translate(174.000000, 206.000000)">
+                <g id="play-icon" transform="translate(25.000000, 12.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Rectangle-" fill="#9ECBFF" xlink:href="#path-1"></use>
+                    <path d="M-7.87867966,0.878679656 L10.3345238,19.0918831 C11.5060967,20.263456 11.5060967,22.1629509 10.3345238,23.3345238 L-7.87867966,41.5477272 C-9.05025253,42.7193001 -10.9497475,42.7193001 -12.1213203,41.5477272 C-12.6839295,40.9851181 -13,40.2220563 -13,39.4264069 L-13,3 C-13,1.34314575 -11.6568542,0 -10,0 C-9.20435053,0 -8.44128879,0.316070521 -7.87867966,0.878679656 Z" id="Rectangle-" fill="#4A90E2" mask="url(#mask-2)"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
